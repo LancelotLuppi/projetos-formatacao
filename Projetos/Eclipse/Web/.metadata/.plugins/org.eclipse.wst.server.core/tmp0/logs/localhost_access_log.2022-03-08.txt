@@ -1,0 +1,14 @@
+127.0.0.1 - - [08/Mar/2022:01:20:51 -0300] "GET / HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:01:21:05 -0300] "GET /favicon.ico HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:01:21:11 -0300] "POST /gerenciador/empresa HTTP/1.1" 200 86
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:01:21:22 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 178
+127.0.0.1 - - [08/Mar/2022:11:28:09 -0300] "GET / HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:11:28:19 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 500 7663
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:11:28:19 -0300] "GET /favicon.ico HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:11:28:32 -0300] "POST /gerenciador/empresa HTTP/1.1" 200 85
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:11:28:41 -0300] "POST /gerenciador/empresa HTTP/1.1" 200 86
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:11:28:52 -0300] "POST /gerenciador/empresa HTTP/1.1" 200 85
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:11:28:56 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 500 7663
+127.0.0.1 - - [08/Mar/2022:11:34:51 -0300] "GET / HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:11:35:05 -0300] "POST /gerenciador/empresa HTTP/1.1" 404 787
+0:0:0:0:0:0:0:1 - - [08/Mar/2022:11:36:38 -0300] "GET /gerenciador/empresa HTTP/1.1" 404 787
